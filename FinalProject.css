@@ -1,0 +1,18 @@
+h1 {
+   text-align: center;
+}
+
+p{
+  text-align: center;
+  line-height: 40%;
+}
+
+a{ 
+  font-size: 10px;
+}
+.chart-container {
+  position: relative;
+  height:40vh;
+  width:80vw;
+  margin: auto;
+}
